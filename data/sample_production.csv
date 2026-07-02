@@ -1,0 +1,601 @@
+customer_id,tenure_months,monthly_charges,support_tickets,region,contract_type,internet_service,churn
+100001,13.2,61.49,3,South,Month-to-month,Fiber,1
+100002,43.7,55.72,2,East,Month-to-month,Fiber,1
+100003,8.0,78.54,6,South,Month-to-month,DSL,1
+100004,24.4,129.42,1,North,Month-to-month,None,0
+100005,72.0,59.39,3,North,Month-to-month,Fiber,0
+100006,49.0,78.45,1,East,Month-to-month,Fiber,1
+100007,5.3,83.95,4,South,Month-to-month,Fiber,1
+100008,23.0,79.61,2,West,Month-to-month,DSL,0
+100009,24.0,71.92,5,South,Month-to-month,Fiber,1
+100010,20.5,107.41,5,North,Two year,DSL,1
+100011,4.5,92.0,1,East,Month-to-month,Fiber,1
+100012,15.2,100.61,4,West,Month-to-month,Fiber,1
+100013,15.2,94.97,4,South,Month-to-month,Fiber,1
+100014,3.9,101.67,6,West,Month-to-month,Fiber,1
+100015,10.4,116.86,3,East,Month-to-month,DSL,1
+100016,15.7,111.28,3,West,One year,Fiber,1
+100017,12.2,133.15,6,South,Month-to-month,DSL,1
+100018,21.6,108.78,4,North,Two year,Fiber,1
+100019,10.2,67.27,2,North,Two year,None,0
+100020,14.1,100.64,2,East,Month-to-month,DSL,1
+100021,25.5,97.63,2,West,Month-to-month,Fiber,0
+100022,40.3,124.25,3,South,Month-to-month,None,1
+100023,4.4,60.72,3,North,One year,Fiber,1
+100024,21.0,94.27,3,North,Month-to-month,Fiber,1
+100025,8.9,67.02,0,South,Month-to-month,DSL,1
+100026,17.7,93.28,3,West,Month-to-month,DSL,1
+100027,4.1,77.28,2,South,Month-to-month,DSL,1
+100028,29.9,92.55,3,East,Month-to-month,None,0
+100029,6.7,50.97,2,South,One year,Fiber,1
+100030,25.8,99.45,2,West,Month-to-month,Fiber,0
+100031,4.6,86.53,4,West,One year,Fiber,1
+100032,3.3,85.35,3,South,Month-to-month,Fiber,1
+100033,11.0,124.91,1,East,Month-to-month,Fiber,1
+100034,15.3,73.59,4,West,Month-to-month,Fiber,1
+100035,52.0,89.53,2,West,Month-to-month,Fiber,1
+100036,15.1,84.21,6,South,Month-to-month,Fiber,0
+100037,5.3,86.36,0,North,Month-to-month,Fiber,1
+100038,23.0,130.88,2,South,Month-to-month,DSL,1
+100039,33.4,83.4,4,East,One year,Fiber,1
+100040,6.4,69.52,4,South,Month-to-month,DSL,1
+100041,25.1,123.16,0,West,One year,DSL,1
+100042,30.6,75.23,6,South,Month-to-month,Fiber,1
+100043,23.4,46.69,6,West,Month-to-month,DSL,1
+100044,7.6,65.7,2,South,One year,None,1
+100045,15.5,54.58,3,North,One year,Fiber,1
+100046,17.7,42.4,1,South,One year,Fiber,1
+100047,29.3,74.01,4,East,One year,Fiber,0
+100048,8.1,80.46,2,West,Month-to-month,Fiber,1
+100049,25.6,107.97,4,South,Two year,Fiber,1
+100050,11.8,95.85,4,North,Month-to-month,DSL,1
+100051,9.9,94.84,1,West,Month-to-month,DSL,0
+100052,13.7,62.35,4,South,Month-to-month,DSL,0
+100053,1.0,101.47,3,South,Month-to-month,DSL,1
+100054,1.5,112.61,2,West,Month-to-month,Fiber,0
+100055,2.1,90.68,5,North,Month-to-month,Fiber,1
+100056,18.2,91.3,2,North,Month-to-month,Fiber,0
+100057,10.8,54.18,2,South,One year,Fiber,1
+100058,7.6,105.2,5,East,Month-to-month,DSL,1
+100059,12.8,121.18,4,South,Month-to-month,Fiber,1
+100060,26.0,89.1,5,West,Month-to-month,Fiber,1
+100061,12.3,68.92,5,South,One year,Fiber,0
+100062,5.1,78.44,3,West,One year,Fiber,1
+100063,57.5,72.75,1,North,Month-to-month,Fiber,1
+100064,13.3,74.07,4,North,One year,Fiber,1
+100065,30.7,96.26,1,South,Month-to-month,Fiber,1
+100066,23.5,88.15,4,North,One year,Fiber,0
+100067,9.4,104.09,3,South,Month-to-month,Fiber,1
+100068,39.9,90.16,4,West,Month-to-month,DSL,0
+100069,8.2,62.99,2,West,Month-to-month,Fiber,1
+100070,18.0,70.98,3,East,Month-to-month,Fiber,1
+100071,16.3,69.62,1,North,Month-to-month,Fiber,1
+100072,17.5,77.9,3,West,Month-to-month,Fiber,0
+100073,35.5,121.48,0,South,Month-to-month,Fiber,0
+100074,13.6,125.01,7,East,Month-to-month,Fiber,1
+100075,15.6,100.41,2,East,Month-to-month,DSL,1
+100076,16.2,84.61,1,North,Month-to-month,None,0
+100077,50.5,52.04,8,South,One year,Fiber,1
+100078,29.2,86.84,1,West,Month-to-month,Fiber,0
+100079,3.1,64.62,4,South,Month-to-month,Fiber,1
+100080,8.4,117.87,3,East,Two year,Fiber,1
+100081,14.3,46.67,5,West,Month-to-month,Fiber,1
+100082,35.0,90.46,4,South,Month-to-month,DSL,0
+100083,37.3,62.77,4,South,Month-to-month,Fiber,1
+100084,13.0,81.79,5,South,Two year,Fiber,1
+100085,8.2,96.65,2,West,Month-to-month,Fiber,1
+100086,11.6,104.48,3,South,Month-to-month,Fiber,0
+100087,14.7,80.66,5,South,Month-to-month,Fiber,1
+100088,11.0,98.75,4,South,One year,Fiber,1
+100089,31.3,67.43,6,West,Month-to-month,Fiber,1
+100090,10.2,87.4,1,West,Two year,Fiber,0
+100091,6.5,104.05,4,East,Month-to-month,Fiber,1
+100092,11.4,89.31,7,West,Month-to-month,DSL,1
+100093,16.9,70.35,4,East,Month-to-month,Fiber,1
+100094,31.7,75.86,3,West,One year,Fiber,0
+100095,6.0,104.34,4,North,Month-to-month,DSL,1
+100096,17.0,57.98,2,South,Month-to-month,DSL,1
+100097,17.4,61.23,1,West,Month-to-month,Fiber,0
+100098,19.8,95.23,1,South,Month-to-month,Fiber,1
+100099,10.1,72.34,3,South,Month-to-month,Fiber,1
+100100,19.6,50.03,2,East,Month-to-month,Fiber,1
+100101,23.1,111.72,4,East,Month-to-month,DSL,1
+100102,10.1,57.81,3,South,Month-to-month,Fiber,0
+100103,15.6,77.61,2,South,Month-to-month,Fiber,1
+100104,12.0,68.37,2,South,Month-to-month,Fiber,1
+100105,7.2,75.45,5,North,One year,Fiber,0
+100106,4.2,62.54,2,South,Month-to-month,Fiber,1
+100107,8.2,97.71,2,South,Month-to-month,Fiber,1
+100108,8.7,84.44,4,East,Month-to-month,Fiber,1
+100109,4.1,103.64,3,South,Month-to-month,DSL,1
+100110,18.6,68.6,1,South,Month-to-month,DSL,1
+100111,24.2,128.93,3,East,Month-to-month,DSL,1
+100112,11.7,40.1,2,North,Two year,DSL,1
+100113,13.1,47.13,5,South,Month-to-month,DSL,1
+100114,9.2,120.57,6,South,Month-to-month,None,1
+100115,12.5,92.43,1,East,Month-to-month,Fiber,0
+100116,19.7,89.51,4,North,Month-to-month,Fiber,1
+100117,17.0,91.49,4,South,Month-to-month,Fiber,1
+100118,12.5,94.57,1,South,One year,Fiber,0
+100119,8.7,88.59,2,West,One year,DSL,0
+100120,22.9,60.75,1,East,Month-to-month,Fiber,1
+100121,9.4,100.0,2,West,Month-to-month,DSL,1
+100122,4.5,96.53,3,East,Month-to-month,DSL,1
+100123,14.9,113.43,5,South,Month-to-month,Fiber,1
+100124,2.6,120.81,3,South,Month-to-month,Fiber,1
+100125,16.5,89.27,1,North,One year,Fiber,1
+100126,17.4,54.99,5,South,Month-to-month,Fiber,1
+100127,8.1,121.0,3,North,Month-to-month,Fiber,0
+100128,9.1,59.6,1,South,Month-to-month,Fiber,1
+100129,25.1,89.44,6,East,Month-to-month,Fiber,0
+100130,47.4,76.35,8,East,Two year,Fiber,1
+100131,13.6,72.53,3,South,One year,Fiber,0
+100132,8.2,98.81,2,South,One year,Fiber,0
+100133,17.5,87.38,3,South,One year,Fiber,1
+100134,12.1,93.29,6,South,Month-to-month,None,1
+100135,16.7,64.05,8,South,Month-to-month,Fiber,1
+100136,14.9,78.17,3,South,Month-to-month,DSL,1
+100137,15.2,65.07,4,South,Month-to-month,Fiber,1
+100138,1.7,77.62,0,West,Month-to-month,Fiber,1
+100139,9.1,79.39,0,South,Month-to-month,None,0
+100140,8.4,122.57,3,South,One year,DSL,0
+100141,8.3,76.29,1,North,Month-to-month,Fiber,1
+100142,20.7,35.24,1,South,One year,DSL,0
+100143,4.9,112.69,1,South,Two year,Fiber,1
+100144,1.7,91.88,6,West,Two year,DSL,1
+100145,8.1,79.12,4,North,Month-to-month,Fiber,0
+100146,6.8,72.38,0,South,Month-to-month,DSL,1
+100147,13.7,61.17,3,West,Month-to-month,None,1
+100148,6.8,124.64,4,South,Month-to-month,DSL,1
+100149,10.8,83.14,3,South,Month-to-month,DSL,1
+100150,9.6,43.77,7,East,One year,Fiber,0
+100151,30.6,89.21,5,South,Month-to-month,Fiber,1
+100152,6.9,108.54,1,West,Month-to-month,Fiber,1
+100153,19.9,85.44,4,North,Two year,DSL,0
+100154,12.4,62.16,2,East,Month-to-month,Fiber,1
+100155,25.5,60.2,3,South,One year,Fiber,1
+100156,36.9,61.82,3,West,Month-to-month,DSL,1
+100157,12.3,115.48,3,West,Month-to-month,Fiber,1
+100158,2.7,80.42,3,West,Month-to-month,DSL,1
+100159,4.9,45.07,2,West,Month-to-month,DSL,0
+100160,3.9,90.45,1,East,Month-to-month,Fiber,0
+100161,9.1,85.1,4,North,One year,Fiber,1
+100162,8.0,72.12,4,North,One year,DSL,1
+100163,15.5,59.55,2,South,Month-to-month,Fiber,0
+100164,24.2,58.59,1,South,Month-to-month,None,1
+100165,2.4,105.91,4,South,Month-to-month,Fiber,0
+100166,13.1,87.45,1,East,Month-to-month,Fiber,1
+100167,7.1,92.53,8,East,Month-to-month,Fiber,1
+100168,13.5,87.38,1,West,Month-to-month,DSL,1
+100169,9.1,89.21,4,South,Month-to-month,Fiber,1
+100170,21.4,71.7,1,East,Month-to-month,DSL,1
+100171,5.2,77.47,5,East,Month-to-month,None,1
+100172,7.5,107.63,2,West,One year,Fiber,0
+100173,11.6,113.12,4,East,Month-to-month,Fiber,0
+100174,9.9,55.11,3,South,Month-to-month,Fiber,1
+100175,11.6,77.42,3,North,Month-to-month,DSL,1
+100176,3.0,100.46,6,West,Month-to-month,Fiber,1
+100177,33.3,123.41,4,East,One year,DSL,1
+100178,8.6,121.2,4,West,Month-to-month,DSL,1
+100179,5.5,64.49,4,East,One year,Fiber,1
+100180,11.8,110.05,3,East,Month-to-month,Fiber,0
+100181,13.2,83.29,3,East,Month-to-month,None,0
+100182,43.1,104.98,3,West,Month-to-month,DSL,0
+100183,26.9,99.34,3,West,Month-to-month,DSL,0
+100184,9.8,54.19,1,South,Month-to-month,Fiber,1
+100185,38.2,94.1,1,North,Month-to-month,Fiber,1
+100186,33.3,104.13,2,North,Month-to-month,Fiber,0
+100187,5.6,81.56,4,South,Month-to-month,None,1
+100188,49.7,76.58,3,West,Month-to-month,Fiber,0
+100189,8.7,47.42,5,West,Month-to-month,DSL,1
+100190,14.4,97.04,1,South,Month-to-month,Fiber,1
+100191,30.0,86.59,3,South,Two year,DSL,0
+100192,2.4,61.71,6,South,Month-to-month,Fiber,1
+100193,11.6,74.83,1,West,Month-to-month,DSL,1
+100194,16.1,85.4,3,East,Month-to-month,Fiber,1
+100195,26.2,69.71,3,North,Month-to-month,DSL,1
+100196,12.7,82.06,3,South,Month-to-month,Fiber,1
+100197,2.4,43.5,5,South,Month-to-month,Fiber,1
+100198,42.9,111.69,7,South,Two year,Fiber,1
+100199,13.1,82.35,6,West,One year,Fiber,1
+100200,16.5,57.81,2,West,Month-to-month,Fiber,1
+100201,3.4,27.89,3,North,Two year,Fiber,0
+100202,32.3,104.64,1,South,Month-to-month,Fiber,1
+100203,8.8,94.28,5,South,Two year,Fiber,1
+100204,7.1,86.64,2,South,Month-to-month,Fiber,0
+100205,27.6,101.0,3,South,Two year,DSL,1
+100206,3.8,100.94,1,North,Month-to-month,Fiber,1
+100207,16.7,86.28,4,North,Month-to-month,Fiber,0
+100208,6.9,76.41,4,West,Two year,DSL,1
+100209,18.2,72.82,4,North,Month-to-month,Fiber,1
+100210,21.7,91.26,3,West,Month-to-month,Fiber,1
+100211,8.6,112.73,0,South,Month-to-month,DSL,0
+100212,31.1,79.74,3,South,Month-to-month,DSL,1
+100213,13.1,114.48,6,North,Month-to-month,Fiber,1
+100214,43.3,90.21,1,North,Month-to-month,Fiber,1
+100215,27.8,90.38,4,South,Month-to-month,DSL,1
+100216,14.2,134.91,2,West,One year,DSL,0
+100217,14.2,118.36,5,West,Month-to-month,Fiber,1
+100218,4.1,118.93,2,North,One year,Fiber,0
+100219,27.6,64.45,5,North,Month-to-month,DSL,1
+100220,7.9,130.23,4,North,One year,DSL,1
+100221,15.4,80.19,3,East,One year,Fiber,0
+100222,43.1,77.0,7,South,One year,Fiber,1
+100223,30.7,34.5,4,South,Month-to-month,Fiber,1
+100224,5.9,89.18,2,West,Month-to-month,Fiber,1
+100225,13.2,58.17,1,West,One year,Fiber,0
+100226,16.6,90.98,0,East,Month-to-month,Fiber,1
+100227,33.3,56.45,4,North,Month-to-month,Fiber,1
+100228,30.0,121.55,5,South,Month-to-month,Fiber,1
+100229,19.7,94.13,3,South,One year,DSL,0
+100230,18.4,132.16,2,East,Month-to-month,DSL,0
+100231,13.0,59.49,1,East,Month-to-month,DSL,0
+100232,16.2,116.08,4,North,One year,DSL,1
+100233,10.8,42.34,5,West,Month-to-month,None,1
+100234,23.1,86.58,2,South,Month-to-month,Fiber,0
+100235,19.1,68.1,5,East,Month-to-month,Fiber,1
+100236,26.9,72.14,4,North,Month-to-month,DSL,1
+100237,26.4,70.64,7,South,Month-to-month,Fiber,1
+100238,7.9,61.88,6,North,Month-to-month,Fiber,1
+100239,1.3,54.29,1,East,Month-to-month,None,1
+100240,7.4,72.27,2,North,One year,Fiber,0
+100241,16.1,84.55,4,South,One year,DSL,1
+100242,10.8,107.6,2,East,One year,Fiber,0
+100243,10.4,88.5,4,East,Month-to-month,Fiber,1
+100244,7.0,107.66,2,East,Month-to-month,DSL,1
+100245,17.8,49.48,2,East,One year,DSL,0
+100246,2.5,72.47,2,East,Month-to-month,Fiber,1
+100247,19.6,97.64,4,East,Month-to-month,Fiber,1
+100248,19.9,89.55,2,South,Month-to-month,Fiber,1
+100249,26.5,63.05,2,North,Month-to-month,Fiber,1
+100250,72.0,102.55,1,South,Month-to-month,Fiber,1
+100251,1.1,70.31,4,North,Month-to-month,Fiber,1
+100252,19.2,64.9,3,South,Month-to-month,Fiber,0
+100253,22.0,92.71,3,South,Month-to-month,Fiber,1
+100254,7.4,82.14,5,North,Month-to-month,Fiber,1
+100255,11.4,70.5,5,East,Month-to-month,Fiber,1
+100256,8.9,69.75,1,East,One year,Fiber,1
+100257,20.1,58.46,2,South,One year,Fiber,0
+100258,28.5,73.29,2,West,Two year,None,0
+100259,4.7,106.2,4,South,Month-to-month,None,1
+100260,18.0,87.38,2,South,Month-to-month,DSL,1
+100261,32.6,103.09,4,South,Month-to-month,Fiber,1
+100262,7.8,93.35,1,South,Month-to-month,DSL,0
+100263,6.3,68.53,1,South,Month-to-month,Fiber,1
+100264,5.7,45.72,2,West,One year,Fiber,1
+100265,6.6,61.61,2,South,Month-to-month,DSL,1
+100266,42.6,67.23,7,South,Month-to-month,Fiber,0
+100267,49.2,65.53,3,South,Two year,DSL,1
+100268,35.4,103.58,4,South,Month-to-month,DSL,1
+100269,10.6,103.35,2,East,One year,Fiber,0
+100270,36.4,130.66,2,East,Month-to-month,Fiber,0
+100271,5.4,65.2,3,East,Month-to-month,DSL,1
+100272,23.5,117.14,7,East,Two year,Fiber,1
+100273,8.4,117.01,3,South,One year,Fiber,1
+100274,4.7,76.89,3,South,One year,Fiber,1
+100275,17.6,92.42,0,East,Month-to-month,None,1
+100276,17.9,109.3,0,South,Month-to-month,Fiber,1
+100277,19.2,80.7,1,South,Month-to-month,None,0
+100278,20.7,79.0,2,North,Month-to-month,DSL,1
+100279,16.9,68.2,4,East,Month-to-month,Fiber,1
+100280,12.2,30.08,4,North,Month-to-month,Fiber,1
+100281,14.0,83.55,5,West,Month-to-month,DSL,0
+100282,23.7,66.38,2,North,One year,Fiber,0
+100283,16.5,58.34,3,South,Month-to-month,Fiber,1
+100284,9.2,91.29,1,South,Month-to-month,Fiber,1
+100285,7.3,50.07,4,South,Month-to-month,DSL,0
+100286,13.9,99.73,6,South,Month-to-month,DSL,1
+100287,32.5,92.64,6,East,Month-to-month,Fiber,1
+100288,21.0,73.2,3,North,Month-to-month,Fiber,1
+100289,33.7,80.61,4,South,Month-to-month,Fiber,1
+100290,10.4,55.82,4,North,Month-to-month,DSL,1
+100291,15.6,98.51,3,South,Month-to-month,Fiber,1
+100292,17.3,86.12,3,West,Month-to-month,None,0
+100293,24.5,87.76,2,South,Month-to-month,DSL,1
+100294,10.5,93.04,3,East,Month-to-month,Fiber,0
+100295,20.9,67.87,2,South,Month-to-month,DSL,1
+100296,31.2,48.58,2,South,Month-to-month,DSL,1
+100297,12.8,103.06,2,West,Month-to-month,Fiber,1
+100298,6.5,97.15,3,North,Month-to-month,Fiber,1
+100299,32.0,70.22,3,West,One year,DSL,0
+100300,22.3,91.0,4,South,Month-to-month,Fiber,1
+100301,3.7,109.68,5,South,Month-to-month,DSL,1
+100302,13.0,107.05,7,West,One year,Fiber,1
+100303,44.3,69.58,3,South,Month-to-month,Fiber,1
+100304,19.8,49.25,3,West,One year,None,0
+100305,13.9,53.02,4,West,Month-to-month,Fiber,1
+100306,5.8,75.14,5,South,One year,Fiber,0
+100307,5.8,114.17,4,South,One year,DSL,1
+100308,23.5,65.97,4,West,Two year,Fiber,0
+100309,6.3,68.88,5,South,Month-to-month,DSL,1
+100310,17.4,68.43,2,East,Month-to-month,DSL,1
+100311,12.7,70.3,3,North,Month-to-month,Fiber,0
+100312,16.7,81.75,0,South,Month-to-month,Fiber,1
+100313,11.9,53.84,4,South,One year,None,1
+100314,19.1,105.86,5,East,Month-to-month,None,1
+100315,26.4,78.81,3,East,One year,Fiber,0
+100316,12.1,136.54,4,East,Month-to-month,DSL,1
+100317,24.8,56.18,9,South,Month-to-month,Fiber,1
+100318,34.6,116.98,6,South,Month-to-month,Fiber,1
+100319,17.3,112.61,2,South,Month-to-month,Fiber,1
+100320,23.0,72.94,4,South,Month-to-month,Fiber,0
+100321,4.8,73.31,5,South,Month-to-month,Fiber,1
+100322,12.2,61.73,3,South,Two year,Fiber,0
+100323,3.3,61.98,3,South,One year,DSL,1
+100324,9.1,81.99,1,North,One year,Fiber,1
+100325,12.4,82.46,3,East,Month-to-month,Fiber,1
+100326,46.8,46.75,4,North,Month-to-month,Fiber,0
+100327,7.4,132.46,0,West,Month-to-month,Fiber,1
+100328,13.4,76.29,4,South,Month-to-month,None,1
+100329,6.3,83.44,4,North,Month-to-month,Fiber,1
+100330,11.6,68.22,6,West,Two year,Fiber,0
+100331,19.3,76.13,1,South,Month-to-month,None,1
+100332,21.6,74.13,2,West,One year,Fiber,1
+100333,10.4,81.94,0,South,Month-to-month,Fiber,1
+100334,8.3,81.68,3,South,Month-to-month,DSL,1
+100335,37.7,99.71,3,East,Month-to-month,DSL,0
+100336,9.8,87.0,2,South,Two year,Fiber,0
+100337,1.6,97.49,1,South,Month-to-month,DSL,1
+100338,31.4,81.78,5,South,One year,Fiber,1
+100339,2.1,87.09,0,South,Month-to-month,Fiber,1
+100340,31.4,76.69,3,North,One year,Fiber,0
+100341,3.4,104.07,5,East,Month-to-month,DSL,1
+100342,4.1,89.1,4,South,Month-to-month,Fiber,1
+100343,5.2,78.52,1,West,One year,DSL,0
+100344,9.2,77.87,1,South,One year,None,1
+100345,31.6,79.6,7,South,Month-to-month,DSL,1
+100346,5.4,82.67,2,South,Month-to-month,DSL,1
+100347,19.3,80.76,5,East,One year,Fiber,1
+100348,16.4,69.71,3,West,Month-to-month,Fiber,1
+100349,14.4,98.83,6,South,Two year,Fiber,1
+100350,27.7,100.22,6,South,Month-to-month,Fiber,1
+100351,15.3,121.24,3,East,Month-to-month,DSL,1
+100352,16.2,68.72,6,South,Month-to-month,DSL,1
+100353,22.9,96.66,1,South,Month-to-month,Fiber,0
+100354,9.4,40.0,4,East,Month-to-month,Fiber,1
+100355,13.5,100.24,2,South,One year,DSL,0
+100356,17.3,49.96,5,East,Month-to-month,Fiber,1
+100357,25.9,60.34,1,East,Month-to-month,Fiber,0
+100358,12.2,89.31,2,North,Month-to-month,Fiber,1
+100359,13.4,68.33,4,South,One year,Fiber,0
+100360,19.0,65.32,2,South,One year,DSL,0
+100361,12.4,71.33,5,East,Month-to-month,Fiber,1
+100362,7.5,98.05,3,South,Two year,Fiber,0
+100363,22.9,61.48,4,South,Month-to-month,Fiber,0
+100364,15.3,80.81,4,South,Month-to-month,Fiber,1
+100365,10.0,73.67,5,North,One year,Fiber,0
+100366,5.2,100.04,1,North,Month-to-month,Fiber,1
+100367,2.2,100.65,1,South,Month-to-month,DSL,1
+100368,19.7,41.62,5,North,Month-to-month,DSL,1
+100369,7.4,104.99,5,North,Month-to-month,Fiber,1
+100370,3.2,68.56,3,East,Month-to-month,Fiber,1
+100371,6.6,87.2,1,East,Month-to-month,DSL,1
+100372,17.2,61.34,4,North,One year,Fiber,1
+100373,7.3,90.16,0,South,Month-to-month,Fiber,0
+100374,17.5,138.13,3,North,Month-to-month,Fiber,1
+100375,8.7,84.8,4,South,Two year,Fiber,0
+100376,13.5,71.88,4,West,One year,None,0
+100377,14.4,76.89,3,South,Month-to-month,Fiber,1
+100378,22.0,49.68,0,North,Month-to-month,None,0
+100379,22.5,113.88,2,South,Month-to-month,DSL,1
+100380,13.8,88.88,0,East,Month-to-month,None,1
+100381,6.0,58.92,3,South,Month-to-month,DSL,0
+100382,29.8,59.64,4,West,Month-to-month,DSL,0
+100383,9.9,82.34,5,South,Month-to-month,Fiber,1
+100384,1.0,102.5,2,North,Month-to-month,DSL,1
+100385,16.8,56.68,4,South,Month-to-month,Fiber,0
+100386,17.3,106.5,4,East,Month-to-month,DSL,1
+100387,10.2,79.98,3,South,One year,Fiber,0
+100388,3.4,61.53,2,West,Month-to-month,Fiber,1
+100389,2.7,71.71,4,West,Month-to-month,Fiber,1
+100390,10.8,120.47,4,North,Month-to-month,Fiber,1
+100391,5.5,51.46,4,North,Month-to-month,Fiber,1
+100392,25.9,65.9,5,South,Month-to-month,Fiber,0
+100393,10.5,102.96,2,East,Month-to-month,Fiber,0
+100394,9.5,86.76,2,East,One year,Fiber,1
+100395,43.6,64.59,4,South,Month-to-month,Fiber,0
+100396,1.2,103.23,1,West,Month-to-month,Fiber,1
+100397,13.4,104.27,1,South,Month-to-month,Fiber,1
+100398,2.3,89.29,5,West,Month-to-month,Fiber,1
+100399,31.9,68.53,2,West,Month-to-month,Fiber,1
+100400,3.1,71.92,7,North,Month-to-month,Fiber,1
+100401,17.8,88.26,2,South,Month-to-month,None,0
+100402,16.0,53.14,3,South,Month-to-month,Fiber,1
+100403,2.2,111.21,4,West,One year,Fiber,1
+100404,17.9,119.4,2,South,Month-to-month,Fiber,1
+100405,8.6,76.81,3,West,One year,DSL,0
+100406,20.4,89.83,3,South,Month-to-month,Fiber,1
+100407,8.2,108.09,4,South,Month-to-month,Fiber,1
+100408,17.9,125.02,3,West,Month-to-month,Fiber,1
+100409,12.4,116.25,2,South,Month-to-month,Fiber,1
+100410,17.9,43.82,4,East,Month-to-month,Fiber,1
+100411,20.2,75.06,2,South,Two year,None,0
+100412,11.3,93.02,3,North,Two year,None,1
+100413,9.9,71.13,6,North,Month-to-month,Fiber,1
+100414,19.8,121.22,3,South,Month-to-month,Fiber,1
+100415,8.8,117.85,3,East,One year,Fiber,0
+100416,11.5,64.05,3,South,Two year,None,1
+100417,36.1,78.43,6,South,Month-to-month,DSL,1
+100418,13.5,65.51,1,North,Month-to-month,Fiber,1
+100419,22.5,77.71,3,East,Month-to-month,Fiber,1
+100420,7.7,77.04,2,West,Month-to-month,Fiber,0
+100421,17.7,102.99,3,East,Month-to-month,DSL,1
+100422,11.8,62.45,2,West,Month-to-month,Fiber,1
+100423,10.1,24.43,5,North,Month-to-month,Fiber,0
+100424,2.0,46.7,3,North,Month-to-month,Fiber,1
+100425,5.6,59.38,2,South,Month-to-month,Fiber,1
+100426,45.5,67.57,3,South,Month-to-month,DSL,1
+100427,12.3,86.12,3,East,Month-to-month,Fiber,1
+100428,13.6,58.24,3,East,Month-to-month,Fiber,0
+100429,25.4,55.36,4,North,Month-to-month,DSL,0
+100430,16.5,61.55,3,West,One year,Fiber,0
+100431,10.1,57.46,4,North,Month-to-month,DSL,0
+100432,10.2,69.8,4,East,Month-to-month,DSL,1
+100433,5.2,68.86,0,South,Month-to-month,Fiber,0
+100434,18.8,97.16,3,East,One year,Fiber,0
+100435,19.3,60.23,0,North,Month-to-month,Fiber,1
+100436,13.7,74.13,3,West,Month-to-month,DSL,0
+100437,12.0,70.01,7,West,Month-to-month,None,1
+100438,19.4,99.8,5,South,Month-to-month,Fiber,1
+100439,5.1,78.61,2,South,One year,DSL,1
+100440,17.2,105.12,3,East,Month-to-month,DSL,1
+100441,37.4,56.65,3,South,One year,None,1
+100442,7.9,80.91,2,South,Month-to-month,Fiber,1
+100443,11.1,69.33,2,South,One year,Fiber,0
+100444,31.0,55.03,4,West,Two year,DSL,0
+100445,13.7,80.51,3,East,Month-to-month,DSL,1
+100446,23.8,120.12,0,South,Month-to-month,DSL,1
+100447,17.9,63.24,3,West,Month-to-month,DSL,0
+100448,19.0,79.2,0,South,Month-to-month,Fiber,0
+100449,7.5,53.13,3,North,One year,DSL,0
+100450,7.3,49.9,7,West,Month-to-month,Fiber,1
+100451,21.6,64.68,1,South,Month-to-month,Fiber,1
+100452,3.7,72.1,1,North,Month-to-month,Fiber,1
+100453,11.5,73.08,1,South,Month-to-month,Fiber,1
+100454,19.5,77.03,3,West,Month-to-month,Fiber,1
+100455,11.1,45.74,7,North,One year,Fiber,1
+100456,12.1,68.23,5,South,Month-to-month,DSL,1
+100457,24.6,93.04,6,North,Month-to-month,Fiber,1
+100458,33.5,52.12,0,South,Month-to-month,Fiber,0
+100459,57.6,74.19,2,South,Month-to-month,Fiber,0
+100460,31.6,88.44,5,North,Month-to-month,Fiber,1
+100461,9.3,64.79,2,West,Month-to-month,Fiber,0
+100462,6.4,89.51,4,East,Month-to-month,Fiber,1
+100463,9.4,48.54,1,West,Month-to-month,DSL,0
+100464,19.7,101.55,3,West,Month-to-month,Fiber,1
+100465,10.2,90.05,1,West,Month-to-month,Fiber,1
+100466,7.7,83.22,4,East,Month-to-month,DSL,1
+100467,36.3,106.75,3,South,Month-to-month,Fiber,1
+100468,10.0,74.75,2,West,Month-to-month,Fiber,1
+100469,18.6,68.41,1,South,Month-to-month,Fiber,0
+100470,18.3,112.2,3,South,Month-to-month,Fiber,1
+100471,2.1,122.5,3,South,One year,DSL,1
+100472,34.8,66.74,4,South,Month-to-month,Fiber,1
+100473,4.8,79.5,3,South,Two year,Fiber,0
+100474,3.4,104.99,1,East,Month-to-month,Fiber,1
+100475,9.1,80.28,2,South,Month-to-month,Fiber,0
+100476,6.5,95.08,4,South,Month-to-month,None,1
+100477,31.2,99.17,3,North,One year,Fiber,1
+100478,16.3,69.63,3,West,One year,DSL,0
+100479,8.4,91.22,4,South,Month-to-month,Fiber,1
+100480,3.2,81.86,6,South,Month-to-month,Fiber,1
+100481,17.8,55.23,1,East,Two year,Fiber,0
+100482,10.7,60.23,3,West,Two year,DSL,0
+100483,19.5,67.65,4,South,Two year,Fiber,0
+100484,16.4,102.43,2,East,Month-to-month,DSL,0
+100485,6.7,103.15,4,South,Month-to-month,Fiber,1
+100486,21.4,98.5,3,West,Month-to-month,Fiber,1
+100487,4.3,91.68,4,South,One year,Fiber,1
+100488,10.3,91.08,3,East,Month-to-month,Fiber,1
+100489,11.5,88.11,3,North,Month-to-month,Fiber,0
+100490,12.7,90.97,1,East,Month-to-month,Fiber,1
+100491,4.0,92.46,4,South,Month-to-month,DSL,1
+100492,30.1,51.1,6,South,One year,Fiber,0
+100493,6.7,64.61,3,East,Month-to-month,Fiber,1
+100494,2.5,59.36,3,East,One year,Fiber,0
+100495,16.8,106.36,4,South,Month-to-month,Fiber,1
+100496,45.1,118.39,2,West,Month-to-month,Fiber,0
+100497,2.1,34.28,3,South,Month-to-month,Fiber,0
+100498,24.8,116.43,2,South,Month-to-month,Fiber,1
+100499,13.4,83.91,1,North,Month-to-month,Fiber,1
+100500,4.2,104.28,3,South,One year,Fiber,0
+100501,11.4,93.14,3,West,Month-to-month,DSL,1
+100502,38.0,113.69,3,North,Month-to-month,DSL,1
+100503,32.3,86.61,2,West,Month-to-month,Fiber,1
+100504,64.8,52.0,3,South,Month-to-month,DSL,0
+100505,22.1,79.68,3,East,Month-to-month,Fiber,1
+100506,8.8,93.34,4,North,Month-to-month,Fiber,1
+100507,24.5,77.25,4,East,Month-to-month,Fiber,0
+100508,7.3,96.47,3,West,Month-to-month,Fiber,0
+100509,12.2,80.55,3,South,Month-to-month,Fiber,1
+100510,7.4,68.9,2,South,Month-to-month,Fiber,0
+100511,22.0,58.11,3,East,Month-to-month,DSL,0
+100512,20.6,73.38,1,East,Month-to-month,Fiber,1
+100513,7.9,86.5,3,North,Month-to-month,Fiber,0
+100514,28.5,38.89,1,East,Month-to-month,Fiber,1
+100515,34.8,64.84,3,East,Month-to-month,Fiber,0
+100516,8.9,38.07,4,East,Month-to-month,DSL,1
+100517,18.0,68.42,1,South,Month-to-month,DSL,1
+100518,36.2,108.34,10,South,One year,Fiber,1
+100519,16.9,55.91,4,West,Month-to-month,DSL,1
+100520,10.4,97.47,6,South,Month-to-month,Fiber,1
+100521,12.6,144.67,2,South,Month-to-month,Fiber,1
+100522,8.8,113.98,2,West,Month-to-month,Fiber,1
+100523,29.1,84.94,3,South,Month-to-month,Fiber,1
+100524,26.7,100.89,3,South,Month-to-month,Fiber,0
+100525,7.2,51.87,1,East,Month-to-month,Fiber,1
+100526,8.4,47.38,1,East,Month-to-month,DSL,0
+100527,3.4,82.63,2,West,Month-to-month,DSL,1
+100528,19.8,90.77,4,East,Month-to-month,None,1
+100529,4.9,106.08,3,South,Month-to-month,Fiber,1
+100530,49.2,69.49,6,South,Month-to-month,Fiber,1
+100531,6.5,86.25,4,North,Month-to-month,DSL,0
+100532,1.9,85.5,3,West,Two year,Fiber,0
+100533,4.7,79.11,0,North,Month-to-month,Fiber,1
+100534,16.5,80.41,7,South,Month-to-month,Fiber,1
+100535,12.4,63.2,3,South,One year,Fiber,0
+100536,6.4,88.15,3,North,Month-to-month,Fiber,1
+100537,11.9,86.29,8,South,Month-to-month,Fiber,1
+100538,8.1,72.32,3,East,Month-to-month,Fiber,1
+100539,19.4,96.65,0,North,Month-to-month,DSL,0
+100540,5.1,104.61,3,West,Month-to-month,Fiber,1
+100541,14.8,96.9,4,West,One year,Fiber,1
+100542,15.3,59.07,2,North,One year,Fiber,0
+100543,12.7,84.19,4,West,Month-to-month,None,1
+100544,17.8,61.95,3,South,Month-to-month,Fiber,1
+100545,11.8,84.12,6,North,One year,Fiber,1
+100546,21.8,62.03,3,South,One year,Fiber,0
+100547,12.7,110.1,4,West,One year,None,1
+100548,30.0,99.23,0,East,Month-to-month,Fiber,0
+100549,14.7,107.37,4,South,Month-to-month,Fiber,1
+100550,28.7,105.14,3,East,Month-to-month,Fiber,1
+100551,8.2,76.05,4,East,Two year,DSL,1
+100552,5.6,72.64,3,East,Month-to-month,Fiber,0
+100553,21.7,120.32,1,South,One year,Fiber,1
+100554,12.9,78.37,4,West,Month-to-month,Fiber,0
+100555,1.2,52.2,2,East,One year,Fiber,1
+100556,7.0,104.16,3,North,Month-to-month,Fiber,1
+100557,16.6,85.16,1,West,One year,Fiber,1
+100558,12.1,115.13,4,South,Month-to-month,Fiber,1
+100559,6.8,87.35,5,East,Month-to-month,DSL,1
+100560,12.8,81.56,3,East,Month-to-month,Fiber,0
+100561,14.5,115.57,7,South,One year,DSL,1
+100562,2.5,48.15,2,North,Month-to-month,Fiber,1
+100563,28.2,69.12,3,East,Month-to-month,DSL,1
+100564,32.6,62.48,4,West,Two year,Fiber,0
+100565,7.0,33.71,2,West,One year,Fiber,0
+100566,44.1,101.21,3,East,Month-to-month,Fiber,1
+100567,12.1,69.74,0,South,One year,Fiber,1
+100568,7.7,101.92,3,South,Month-to-month,DSL,1
+100569,7.5,90.56,5,East,Month-to-month,Fiber,1
+100570,42.1,95.36,1,South,Month-to-month,DSL,0
+100571,5.2,71.98,3,East,One year,Fiber,1
+100572,14.7,65.19,3,South,Month-to-month,Fiber,0
+100573,16.0,83.97,2,North,Month-to-month,DSL,1
+100574,21.8,102.22,2,East,Month-to-month,Fiber,1
+100575,13.8,80.89,4,East,Month-to-month,DSL,0
+100576,40.1,66.56,6,East,One year,Fiber,0
+100577,45.2,55.62,1,South,Month-to-month,Fiber,0
+100578,34.1,86.49,3,West,One year,DSL,1
+100579,17.2,69.81,2,South,Month-to-month,Fiber,1
+100580,25.0,80.42,5,East,One year,Fiber,0
+100581,10.2,76.75,3,East,One year,Fiber,1
+100582,28.9,72.22,3,South,Month-to-month,Fiber,1
+100583,8.1,88.46,5,East,Month-to-month,Fiber,1
+100584,6.0,94.2,1,South,One year,Fiber,0
+100585,5.9,125.24,6,South,Month-to-month,Fiber,1
+100586,19.8,98.68,4,East,Month-to-month,Fiber,0
+100587,36.9,117.06,4,North,Month-to-month,Fiber,1
+100588,38.9,63.99,5,West,One year,Fiber,0
+100589,1.3,46.78,3,South,Month-to-month,Fiber,1
+100590,26.1,81.68,3,South,Month-to-month,DSL,1
+100591,5.6,100.88,4,East,Month-to-month,DSL,1
+100592,57.1,97.43,0,South,Month-to-month,Fiber,0
+100593,4.1,108.65,3,West,Month-to-month,Fiber,1
+100594,2.6,26.2,5,South,One year,Fiber,1
+100595,26.5,109.57,6,South,Month-to-month,Fiber,0
+100596,9.7,89.38,7,North,Two year,Fiber,0
+100597,9.3,48.03,1,North,One year,DSL,0
+100598,6.9,97.92,9,North,Month-to-month,DSL,1
+100599,8.0,85.73,6,North,Month-to-month,Fiber,1
+100600,27.3,90.39,3,South,Two year,Fiber,0
